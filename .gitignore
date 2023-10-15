@@ -1,12 +1,12 @@
-#OS file
+!OS file
 .DS_Store
 
 # built application files
-#*.apk
-*.ap_
+#!.apk
+ .ap_
 
 # files for the dex VM
-*.dex
+ .dex
 
 # Java class files
 *.class
@@ -50,3 +50,4 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+ 
